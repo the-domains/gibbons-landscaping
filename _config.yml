@@ -1,0 +1,28 @@
+name: GIBBONS LANDSCAPING
+favicon: null
+layout_spectrum: 0.43862810591235757
+typography_spectrum: 0.8984034382738173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4342615082859993
+  lightness: 0.2985147829167545
+  saturation: 0.7521073967218399
+  rhythmicContrast: 0.31092604249715805
+purpose: []
